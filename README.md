@@ -17,12 +17,15 @@ Streamlit is an open-source app framework for Machine Learning and Data Science 
 
 ### 2. (Optional) Create and activate a virtual envirionment:
 - For Unix/macOS:
-`python3 -m venv .venv
-source .venv/bin/activate`
+  
+`python3 -m venv .venv`
+
+`source .venv/bin/activate`
 
 - For Windows:
-`python -m venv venv
-.\venv\Scripts\activate`
+`python -m venv venv`
+
+`.\venv\Scripts\activate`
 
 ### 3. Install the required dependencies:
 `pip install -r requirements.txt`
