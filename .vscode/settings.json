@@ -1,0 +1,6 @@
+{
+    "sonarlint.connectedMode.project": {
+        "connectionId": "nmkhiem",
+        "projectKey": "nmkhiem_Streamlit"
+    }
+}
