@@ -23,6 +23,7 @@ Streamlit is an open-source app framework for Machine Learning and Data Science 
 `source .venv/bin/activate`
 
 - For Windows:
+- 
 `python -m venv venv`
 
 `.\venv\Scripts\activate`
